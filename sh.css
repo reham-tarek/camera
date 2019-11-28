@@ -1,0 +1,8 @@
+.jumbotron {background-image: url('../graduation/11.jpg');
+background-size: cover;
+height: 70vh}
+.navbar {margin-top: 0}
+@media (max-width:400px) {
+.navbar .navbar-nav .nav-item {display:block}
+}
+.navbar .navbar-nav .nav-item a:hover {color:red}
